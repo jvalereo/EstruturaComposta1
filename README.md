@@ -1,6 +1,6 @@
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="450" src ="https://user-images.githubusercontent.com/25933386/117364128-e88e5680-ae93-11eb-9a31-6b5a0d22a2a3.jpg" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-Layout" height ="200" width ="350" src ="https://user-images.githubusercontent.com/25933386/117364128-e88e5680-ae93-11eb-9a31-6b5a0d22a2a3.jpg" style="max-width: 100%;"></img>
 </a>
 
 <a href="#">
